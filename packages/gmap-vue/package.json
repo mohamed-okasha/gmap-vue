@@ -29,9 +29,6 @@
     "require": "./dist/main.js",
     "default": "./dist/esm/main.js"
   },
-  "files": [
-    "dist"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/diegoazh/gmap-vue.git"
