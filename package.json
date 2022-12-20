@@ -1,7 +1,6 @@
 {
   "name": "monorepo-gmap-vue",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:diegoazh/gmap-vue.git",
   "author": "\"Daniel Sim, Guillaume Leclerc\",",
   "license": "MIT",
